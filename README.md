@@ -5,3 +5,4 @@ Hangman Game<br>
 Student Record Management System<br>
 Pizza Ordering System<br>
 Compound Interest Calculator<br>
+Morse Code
